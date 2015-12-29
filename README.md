@@ -1,0 +1,2 @@
+# jini-mini
+just test
